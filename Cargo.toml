@@ -1,0 +1,8 @@
+[package]
+name = "Wireframe-Map"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minilibx = "0.2.1"
+rfd = "0.10"
